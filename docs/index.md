@@ -1,6 +1,6 @@
 # Juan Sebastián Carrasquilla Gómez
 
-**Prospective PhD Researcher in Machine Learning for Science**
+**Prospective Graduate Researcher in Machine Learning for Science**
 Machine Learning · Graph Neural Networks · Scientific Representation Learning
 Colombia
 Email: [juancarrasquillag@gmail.com](mailto:juancarrasquillag@gmail.com)
@@ -97,4 +97,4 @@ I am open to collaboration and research discussions in machine learning for scie
 
 ## Contact
 
-For academic collaboration or PhD opportunities, please reach out via email.
+For academic collaboration or graduate opportunities, please reach out via email.
